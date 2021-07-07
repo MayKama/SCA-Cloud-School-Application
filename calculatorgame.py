@@ -1,7 +1,7 @@
-num1 = float(input("enter first number1: "))
+num1 = float(input("enter first number one: "))
 
 op = input("enter opertor: ")
-num2 = float(input("enter second number2: "))
+num2 = float(input("enter second number two: "))
 
 if op == "+" :
     print(num1 + num2)
